@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Walk_Run_Jump_Overrided
+  m_Controller: {fileID: 9100000, guid: f24e45f3f5c6f4c4aa76b021d6529f8c, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 92f5834eecc00954ebae1d1c9d85d801, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 3bfc22ca4e55d4945b26a68767a7ed04, type: 3}
